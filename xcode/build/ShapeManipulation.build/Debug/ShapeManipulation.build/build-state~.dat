@@ -1,0 +1,273 @@
+TShapeManipulation
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/ShapeManipulation.app/Contents/Resources/CinderApp.icns
+cCpResource ../resources/logoFrag1.svg ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag1.svg
+cCpResource ../resources/logoFrag2.svg ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag2.svg
+cCpResource ../resources/logoFrag3.svg ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag3.svg
+cCpResource ../resources/logoFrag4.svg ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag4.svg
+cProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ShapeManipulation_Prefix-djvsfuouhxvjrtcrftnrezlmvddj/ShapeManipulation_Prefix.pch.pth ShapeManipulation_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/ShapeManipulation.build/Debug/ShapeManipulation.build/Objects-normal/i386/ShapeManipulationApp.o /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../src/ShapeManipulationApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/MacOS/ShapeManipulation normal i386
+cTouch /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000050224CA700000000000000AA
+t1344425127
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000501022E800000000000024F0
+t1343234792
+s9456
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000501022E80000000000024C14
+t1343234792
+s150548
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c00000000501022E800000000000060B4
+t1343234792
+s24756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000501022E900000000000001E5
+t1343234793
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c00000000501022E9000000000000E920
+t1343234793
+s59680
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c00000000501015C300000000000069F0
+t1343231427
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000501015C30000000000006730
+t1343231427
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000501015C70000000000081CB0
+t1343231431
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000501015CF000000000002DAF0
+t1343231439
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c00000000501015D300000000004A2D90
+t1343231443
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c00000000501016CB0000000000322E20
+t1343231691
+s3288608
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../resources/logoFrag1.svg
+c00000000504C06FD0000000000000320
+t1347159805
+s800
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../resources/logoFrag2.svg
+c00000000504C08D900000000000004AE
+t1347160281
+s1198
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../resources/logoFrag3.svg
+c00000000504C40EB0000000000000678
+t1347174635
+s1656
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../resources/logoFrag4.svg
+c00000000504C411F0000000000000501
+t1347174687
+s1281
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../src/ShapeManipulationApp.cpp
+c00000000505866590000000000000391
+t1347970649
+s913
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Info.plist
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/MacOS/ShapeManipulation
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag1.svg
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag2.svg
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag3.svg
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag4.svg
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/Objects-normal/i386/ShapeManipulation.LinkFileList
+c000000005058665900000000000000A7
+t1347970649
+s167
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/Objects-normal/i386/ShapeManipulationApp.o
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/CinderApp.icns
+c000000005058653A000000000001BEB5
+t1347970362
+s114357
+
+N/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/ShapeManipulation_Prefix.pch
+c000000005058653A0000000000000093
+t1347970362
+s147
+i<Cocoa/Cocoa.h>
+
+N/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ShapeManipulation_Prefix-djvsfuouhxvjrtcrftnrezlmvddj/ShapeManipulation_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c000000005058653A0000000000000357
+t1347970362
+s855
+
+CBuild AST from /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../src/ShapeManipulationApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa5bef0d99d08b641^9819f6d99d08b641^---0#1#0#--18"Check dependencies36"DA869AC1-6C2F-4149-ABB1-BDCF2D1A9EAB-
+
+CCompileC ./build/ShapeManipulation.build/Debug/ShapeManipulation.build/Objects-normal/i386/ShapeManipulationApp.o /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../src/ShapeManipulationApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s369663450.038939
+e369663452.178259
+r1
+xCompileC
+x./build/ShapeManipulation.build/Debug/ShapeManipulation.build/Objects-normal/i386/ShapeManipulationApp.o
+x/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../src/ShapeManipulationApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../src/ShapeManipulationApp.cpp1f310ada9d08b641^7ba42ddc9d08b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../src/ShapeManipulationApp.cpp0000000000000000^3174"CompileC ./build/ShapeManipulation.build/Debug/ShapeManipulation.build/Objects-normal/i386/ShapeManipulationApp.o ../src/ShapeManipulationApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/ShapeManipulation-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/ShapeManipulation-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/ShapeManipulation-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/ShapeManipulation-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/build/Debug -include /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ShapeManipulation_Prefix-djvsfuouhxvjrtcrftnrezlmvddj/ShapeManipulation_Prefix.pch -MMD -MT dependencies -MF /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/Objects-normal/i386/ShapeManipulationApp.d --serialize-diagnostics /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/Objects-normal/i386/ShapeManipulationApp.dia -c /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../src/ShapeManipulationApp.cpp -o /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/Objects-normal/i386/ShapeManipulationApp.o36"7B788A16-51BD-490E-A304-679DDC9F3B17-
+
+CCpResource ../resources/logoFrag1.svg ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag1.svg
+s369663449.976836
+e369663449.986187
+r1
+xCpResource
+x../resources/logoFrag1.svg
+x./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag1.svg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag1.svg5229fad99d08b641^b6bbffd99d08b641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag1.svg000000000080d041^494"CpResource ../resources/logoFrag1.svg ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag1.svg    cd /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../resources/logoFrag1.svg /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources36"2036BDCC-8A53-413A-BF7C-95D4D9FF0CE6-
+
+CCpResource ../resources/logoFrag2.svg ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag2.svg
+s369663449.976845
+e369663449.986227
+r1
+xCpResource
+x../resources/logoFrag2.svg
+x./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag2.svg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag2.svg802afad99d08b641^77beffd99d08b641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag2.svg000000000080d041^494"CpResource ../resources/logoFrag2.svg ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag2.svg    cd /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../resources/logoFrag2.svg /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources36"E12D3912-E5EF-4861-BE24-72EA0C0DF6E9-
+
+CCpResource ../resources/logoFrag3.svg ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag3.svg
+s369663449.976854
+e369663449.986711
+r1
+xCpResource
+x../resources/logoFrag3.svg
+x./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag3.svg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag3.svgcc28fad99d08b641^1ac4ffd99d08b641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag3.svg000000000080d041^494"CpResource ../resources/logoFrag3.svg ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag3.svg    cd /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../resources/logoFrag3.svg /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources36"A2448A11-486A-4A24-8734-FFF11B359D1D-
+
+CCpResource ../resources/logoFrag4.svg ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag4.svg
+s369663449.977032
+e369663449.985867
+r1
+xCpResource
+x../resources/logoFrag4.svg
+x./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag4.svg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag4.svg622dfad99d08b641^18b5ffd99d08b641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag4.svg000000000080d041^494"CpResource ../resources/logoFrag4.svg ./build/Debug/ShapeManipulation.app/Contents/Resources/logoFrag4.svg    cd /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/../resources/logoFrag4.svg /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources36"306707AC-E9F9-4099-9679-922FBA97C9F9-
+
+CCpResource CinderApp.icns ./build/Debug/ShapeManipulation.app/Contents/Resources/CinderApp.icns
+s369663449.976830
+e369663449.986037
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/ShapeManipulation.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy ./build/Debug/ShapeManipulation.app/Contents/Resources/CinderApp.icnsfe28fad99d08b641^f5b8ffd99d08b641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources/CinderApp.icns000000000080d041^471"CpResource CinderApp.icns ./build/Debug/ShapeManipulation.app/Contents/Resources/CinderApp.icns    cd /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/CinderApp.icns /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Resources36"333BD4C3-2B6C-4833-8783-5101273B506B-
+
+CLd /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/MacOS/ShapeManipulation normal i386
+s369663452.184443
+e369663452.575235
+r1
+xLd
+x/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/MacOS/ShapeManipulation
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Link /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/MacOS/ShapeManipulation91482fdc9d08b641^314393dc9d08b641^---0#0#0#--1145"Ld ./build/Debug/ShapeManipulation.app/Contents/MacOS/ShapeManipulation normal i386    cd /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/build/Debug -F/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/build/Debug -filelist /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/Objects-normal/i386/ShapeManipulation.LinkFileList -mmacosx-version-min=10.5 ../../..//lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/MacOS/ShapeManipulation36"3106F1F0-4111-4902-ACB1-BAAAB21D593F-
+
+CProcessInfoPlistFile /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Info.plist Info.plist
+s369663449.965197
+e369663449.968907
+r1
+xProcessInfoPlistFile
+x/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist5228f7d99d08b641^287ef8d99d08b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/Info.plist0000000000000000^483"ProcessInfoPlistFile ./build/Debug/ShapeManipulation.app/Contents/Info.plist Info.plist    cd /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app/Contents/Info.plist36"90AFFE9A-C6D3-4E28-816E-9540FF99F9C0-
+
+CProcessPCH++ /Users/synthresin/Library/Developer/Xcode/DerivedData/ShapeManipulation-elyhdsaghunvgvfzsbtgpkqndxsv/Index/PrecompiledHeaders/ShapeManipulation_Prefix-dydalhqbtfsatvgkyoyzgxmkgznt_ast/ShapeManipulation_Prefix.pch.pth ShapeManipulation_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ShapeManipulation_Prefix-djvsfuouhxvjrtcrftnrezlmvddj/ShapeManipulation_Prefix.pch.pth ShapeManipulation_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s369663449.994756
+e369663450.027499
+r1
+xProcessPCH++
+x/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ShapeManipulation_Prefix-djvsfuouhxvjrtcrftnrezlmvddj/ShapeManipulation_Prefix.pch.pth
+xShapeManipulation_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile ShapeManipulation_Prefix.pch49befed99d08b641^e71c10da9d08b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/ShapeManipulation_Prefix.pch0000000000000000^3107"ProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ShapeManipulation_Prefix-djvsfuouhxvjrtcrftnrezlmvddj/ShapeManipulation_Prefix.pch.pth ShapeManipulation_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/ShapeManipulation-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/ShapeManipulation-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/ShapeManipulation-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/ShapeManipulation-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/ShapeManipulation.build/Debug/ShapeManipulation.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/build/Debug --serialize-diagnostics /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ShapeManipulation_Prefix-djvsfuouhxvjrtcrftnrezlmvddj/ShapeManipulation_Prefix.pch.dia -c /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/ShapeManipulation_Prefix.pch -o /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ShapeManipulation_Prefix-djvsfuouhxvjrtcrftnrezlmvddj/ShapeManipulation_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ShapeManipulation_Prefix-djvsfuouhxvjrtcrftnrezlmvddj/ShapeManipulation_Prefix.pch.d36"E5D0836F-48F6-4CC7-AB1C-4387FAB545B2-
+
+CTouch /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app
+s369663452.582752
+e369663452.598720
+r1
+xTouch
+x/Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Touch /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app424195dc9d08b641^e94599dc9d08b641^---0#0#0#--231"Touch ./build/Debug/ShapeManipulation.app    cd /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode    /usr/bin/touch -c /Users/synthresin/Desktop/cinder/apps/ShapeManipulation/xcode/./build/Debug/ShapeManipulation.app36"359E44AA-31AC-4221-AE05-41D63D70D11D-
+
